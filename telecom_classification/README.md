@@ -17,4 +17,4 @@
 
 
 ## Используемые библиотеки
-*os*, *pandas* , *numpy*, *sklearn*
+*os*, *urllib.request*, *pandas*, *numpy*, *sklearn*
