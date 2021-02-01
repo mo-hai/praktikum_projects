@@ -12,3 +12,4 @@
 | [Временные ряды](https://github.com/mo-hai/praktikum_projects/tree/main/taxi_time_series)|Прогноз заказов такси на следующий час|*pandas*, *numpy*, *matplotlib*, *seaborn*, *sklearn*, *lightgbm*, *statsmodels*|
 | [Токсичные комментарии](https://github.com/mo-hai/praktikum_projects/tree/main/comments_NLP)|Построение модели для классификации комментариев на позитивные и негативные|*pandas*, *numpy*, *tqdm*, *torch*, *transformers*, *nltk*, *re*, *sklearn*, *catboost*|
 | [Возраст по фото](https://github.com/mo-hai/praktikum_projects/tree/main/photo_age_CV)|Предсказание приблизительного возраста человека по фото|*pandas*, *numpy*, *matplotlib*, *tensorflow*|
+| [Финальный проект](https://github.com/mo-hai/praktikum_projects/tree/main/final_project_prom)|Предсказание температуры стали|*pandas*, *numpy*, *matplotlib*, *seaborn*, *sklearn*, *lightgbm*, *catboost*|
