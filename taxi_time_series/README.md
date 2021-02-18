@@ -6,7 +6,7 @@
 
 ## Данные
 
-Количество заказов находится в столбце 'num_orders'.
+Количество заказов находится в столбце `num_orders`.
 
 ## Используемые библиотеки
 *pandas*, *numpy*, *matplotlib*, *seaborn*, *sklearn*, *lightgbm*, *statsmodels*

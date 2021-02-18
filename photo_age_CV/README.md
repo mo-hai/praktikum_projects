@@ -7,8 +7,8 @@
 ## Данные
 
 В вашем распоряжении набор фотографий людей с указанием возраста.
-- папка со всеми изображениями /final_files
-- csv-файл labels.csv с двумя колонками: file_name и real_age
+- папка со всеми изображениями `/final_files`
+- csv-файл `labels.csv` с двумя колонками: `file_name` и `real_age`
 
 ## Используемые библиотеки
 *pandas*, *numpy*, *matplotlib*, *tensorflow*
