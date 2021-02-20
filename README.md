@@ -4,7 +4,7 @@
 
 | Проект              | Описание           | Библиотеки                     |
 | :-------------------- | :------------------------------------------------- |:---------------------------|
-| [Рынок видеоигр](https://github.com/mo-hai/praktikum_projects/tree/main/game_EDA_SDA) | Исследовательский и статистический анализ видеоигр. | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn*, *plotly* |
+| [Рынок видеоигр](https://github.com/mo-hai/praktikum_projects/tree/main/game_EDA_SDA) | Исследовательский и статистический анализ видеоигр | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn*, *plotly* |
 | [Перспективный тариф для оператора](https://github.com/mo-hai/praktikum_projects/tree/main/telecom_SDA_EDA) | Исследовательский и статистический анализ тарифов | *pathlib*, *datetime*, *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn* |
 | [Рекомендация тарифов оператора](https://github.com/mo-hai/praktikum_projects/tree/main/telecom_classification) | Построение модели для задачи классификации, которая поможет выбрать подходящий тариф для рекламы | *pandas*, *numpy*, *matplotlib*, *seaborn*, *sklearn* |
 | [Отток клиентов](https://github.com/mo-hai/praktikum_projects/tree/main/bank_churn_classification) | Прогнозирование оттока клиентов из банка в ближайшее время | *pandas*, *matplotlib*, *seaborn*, *sklearn* |
