@@ -1,4 +1,4 @@
-# praktikum_projects
+# Описание проектов
 Учебные проекты Yandex.Praktikum по специальности Data Science
 
 
